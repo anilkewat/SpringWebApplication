@@ -1,0 +1,7 @@
+http://www.javacodegeeks.com/2012/07/spring-security-part-1-simple-login.html --------Best With Oracle Database
+http://static.springsource.org/spring-security/site/tutorial.html
+http://www.mkyong.com/spring-security/spring-security-access-control-example/
+
+Caused : PreparedStatementCallback; invalid ResultSet access for SQL 
+[select username,password from USER_DETAILS where username=?]; 
+nested exception is java.sql.SQLException: Invalid column index
